@@ -5,7 +5,6 @@ public class Chocolate {
     }
     public static void  doStuff(){
         int a = 5;
-
         while(a < 50)
         {
             System.out.println("Burger vs Pizza");
