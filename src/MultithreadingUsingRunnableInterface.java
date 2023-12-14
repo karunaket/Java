@@ -16,7 +16,7 @@ class MySecondRunnable implements Runnable {
     }
 }
 
-public class Midsem {
+public class MultithreadingUsingRunnableInterface {
     public static void main(String[] args) {
         MyThreadRunnable bullet1 = new MyThreadRunnable();
         Thread gun1 = new Thread(bullet1);
