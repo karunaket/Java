@@ -3,6 +3,7 @@ import java.util.Collections;
 
 public class SupermarketProductList {
     public static void main(String[] args) {
+
         ArrayList<String> productList = new ArrayList<>();
 
         productList.addAll(List.of("Bread", "Milk", "Eggs", "Cheese", "Fruits"));
